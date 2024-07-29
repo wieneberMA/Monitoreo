@@ -14,12 +14,12 @@ from PyQt5.QtWidgets import QFileDialog
 # Configuración del servidor SMTP y credenciales de correo electrónico
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SMTP_USER = 'mailing@shopeando.mx'
-SMTP_PASSWORD = 'cftu kpnc fgpk lomg'
+SMTP_USER = 'Correo@ejemplo.com'
+SMTP_PASSWORD = 'clave'
 
 # Configuración del destinatario
-TO_EMAILS = ['wieneber76@gmail.com']
-CC_EMAILS = ['programacion@shopeando.mx']
+TO_EMAILS = ['Destinatario']
+CC_EMAILS = ['copias a ejemplo@hotmail.com']
 BCC_EMAILS = ['']
 
 # Archivos de registro
